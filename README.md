@@ -1,1 +1,3 @@
-该包内含便签工具，双击FloatPad.lnk打开使用# WorkBuudyEficient
+该包内含便签工具，双击FloatPad.lnk打开使用
+记录工作过程中需要中断处理的请求
+任务结束后让WorkBuddy读取并逐一完成
